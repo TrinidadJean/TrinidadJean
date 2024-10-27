@@ -24,7 +24,7 @@
 - 💬 Feel free to reach out if you have questions or need help with a project! I'm always eager to learn and improve.
 - ✍ I am a Tech Content Creator—visit my TikTok at [@jeanpiereft](https://www.tiktok.com/@jeanpiereft) for tutorials and insights.
 - ❤ Actively contributing to Open Source Projects and Software Development across various industries, including Web Development.
-- 💻 Check out my [Portfolio](https://kiran1689.github.io) to learn more about me.
+- 💻 Check out my [Portfolio](https://github.com/TrinidadJean) to learn more about me.
 <!--End Intro-->
 
 
