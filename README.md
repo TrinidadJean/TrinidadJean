@@ -86,7 +86,7 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/jeanpiereft/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@JeanTrinidadTechs">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@jeanpiereft">
 					<img src="https://img.icons8.com/doodle/40/000000/tiktok.png" ></a>
