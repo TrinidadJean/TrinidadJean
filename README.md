@@ -21,7 +21,7 @@
 - ✨ Final-Year Computer Engineering Student
 - 🌱 Currently serving as a Teaching Assistant at my university, supporting classes in Structured and Unstructured Databases, Frontend and Backend Programming, IoT, and more.
 - 🏋️‍♂️ Sports Enthusiast who enjoys staying active and proactive.
-- 💬 Feel free to reach out if you have questions or need help with a project! I'm always eager to learn and improve.
+- 💬 Feel free to reach out if you have questions or need help with a project! I'm always enthusiastic about learning and improving.
 - ✍ I am a Tech Content Creator—visit my TikTok at [@jeanpiereft](https://www.tiktok.com/@jeanpiereft) for tutorials and insights.
 - ❤ Actively contributing to Open Source Projects and Software Development across various industries, including Web Development.
 - 💻 Check out my [Portfolio](https://github.com/TrinidadJean) to learn more about me.
